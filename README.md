@@ -32,7 +32,7 @@ Tokyo Ghoul [1x4] - Supper.mp4
 Tokyo Ghoul [1x3] - Dove.mp4  
 Tokyo Ghoul [1x6] - Cloudburst.mp4  
 Tokyo Ghoul [1x1] - Tragedy.mp4  
-</code>
+
 
 ## Exercice BONUS : 
 
