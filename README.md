@@ -11,9 +11,9 @@
  ## Exercice 1: TV Show Renamer
  
 Dans ce projet, dans le fichier `main.py` vous devez réaliser un programme pour renommer les épisodes d'une série téléchargée depuis des sources différentes.
-Dans cet exercice vous devrez utilisé le fichier `episode_liste` fourni dans le repo.
+Dans cet exercice vous devrez utilisé le fichier `episode_liste_exercice_1` fourni dans le repo.
 
-**Vous devez préalablement créer un fichier (Peu importe le type ! ) ayant le nom de l'épisode dans le fichier `episode_liste`. **
+**Vous devez préalablement créer un fichier (Peu importe le type ! ) ayant le nom de l'épisode dans le fichier `episode_liste_exercice_1`. **
  
  Il faudra : 
 - Detecter le numéro de l'épisode
@@ -22,35 +22,23 @@ Dans cet exercice vous devrez utilisé le fichier `episode_liste` fourni dans le
 - Les noms des épisodes sont fournis à la fin de ce Readme.
 
 
->The Big Bang Theory [6x22] - The Proton Resurgence.flv
->The Big Bang Theory [6x5] - The Holographic Excitation.mkv
->The Big Bang Theory [6x21] - The Closure Alternative.flv
->The Big Bang Theory [6x15] - The Spoiler Alert Segmentation.mp4
->The Big Bang Theory [6x24] - The Bon Voyage Reaction.flv
->The Big Bang Theory [6x3] - The Higgs Boson Observation.mkv
->The Big Bang Theory [6x18] - The Contractual Obligation Implementation.flv
->The Big Bang Theory [6x9] - The Parking Spot Escalation.mkv
->The Big Bang Theory [6x11] - The Santa Simulation.mkv
->The Big Bang Theory [6x14] - The CooperKripke Inversion.mp4
->The Big Bang Theory [6x20] - The Tenure Turbulence.flv
->The Big Bang Theory [6x1] - The Date Night Variable.mkv
->The Big Bang Theory [6x23] - The Love Spell Potential.flv
->The Big Bang Theory [6x8] - The 43 Peculiarity.mkv
->The Big Bang Theory [6x4] - The Re-Entry Minimization.mkv
->The Big Bang Theory [6x19] - The Closet Reconfiguration.flv
->The Big Bang Theory [6x12] - The Egg Salad Equivalency.mkv
->The Big Bang Theory [6x7] - The Habitation Configuration.mkv
->The Big Bang Theory [6x2] - The Decoupling Fluctuation.mkv
->The Big Bang Theory [6x16] - The Tangible Affection Proof.mp4
->The Big Bang Theory [6x10] - The Fish Guts Displacement.mkv
->The Big Bang Theory [6x13] - The Bakersfield Expedition.mp4
->The Big Bang Theory [6x17] - The Monster Isolation.mp4
->The Big Bang Theory [6x6] - The Extract Obliteration.mkv
+>Tokyo Ghoul [1x5] - Scars.mp4
+>Tokyo Ghoul [1x9] - Birdcage.mp4
+>Tokyo Ghoul [1x7] - Captivity.mp4
+>Tokyo Ghoul [1x2] - Incubation.mp4
+>Tokyo Ghoul [1x8] - Circular.mp4
+>Tokyo Ghoul [1x11] - High Spirits.mp4
+>Tokyo Ghoul [1x10] - Aogiri.mp4
+>Tokyo Ghoul [1x4] - Supper.mp4
+>Tokyo Ghoul [1x3] - Dove.mp4
+>Tokyo Ghoul [1x6] - Cloudburst.mp4
+>Tokyo Ghoul [1x1] - Tragedy.mp4
 
 
 ## Exercice BONUS : 
 
 - Ne pas utiliser la liste des épisodes ci-dessus.
+- Utiliser la liste `episode_liste_bonus`
 - Le programme doit detecter le nom de la série en comptant le nombre d'occurence des noms de fichier présents dans le dossier.
 - Le programme doit detecter le numéro de la saison de l'épisode, si des saisons différentes sont dans le même dossier il faudra alors séparer les épisodes dans des dossiers différents comportant le numéro de la saison.
 - A l'aide du site : https://thetvdb.com/series/the-big-bang-theory/seasons/official/6 et de la librairie `request` (ou de la librairie `tvdb-api`) récupérer les noms des épisodes et renommer en concordance.
