@@ -20,29 +20,19 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - **The Big Bang Theory [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
 - Les noms des épisodes sont fournis à la fin de ce Readme.
 
-
+<code>
 Tokyo Ghoul [1x5] - Scars.mp4
-
 Tokyo Ghoul [1x9] - Birdcage.mp4
-
 Tokyo Ghoul [1x7] - Captivity.mp4
-
 Tokyo Ghoul [1x2] - Incubation.mp4
-
 Tokyo Ghoul [1x8] - Circular.mp4
-
 Tokyo Ghoul [1x11] - High Spirits.mp4
-
 Tokyo Ghoul [1x10] - Aogiri.mp4
-
 Tokyo Ghoul [1x4] - Supper.mp4
-
 Tokyo Ghoul [1x3] - Dove.mp4
-
 Tokyo Ghoul [1x6] - Cloudburst.mp4
-
 Tokyo Ghoul [1x1] - Tragedy.mp4
-
+</code>
 
 ## Exercice BONUS : 
 
