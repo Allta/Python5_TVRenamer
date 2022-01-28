@@ -11,10 +11,9 @@
  ## Exercice 1: TV Show Renamer
  
 Dans ce projet, dans le fichier `main.py` vous devez réaliser un programme pour renommer les épisodes d'une série téléchargée depuis des sources différentes.
-Dans cet exercice vous devrez utilisé le fichier `episode_liste_exercice_1` fourni dans le repo.
+Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
 
-**Vous devez préalablement créer un fichier (Peu importe le type ! ) ayant le nom de l'épisode dans le fichier `episode_liste_exercice_1`. **
- 
+
  Il faudra : 
 - Detecter le numéro de l'épisode
 - Renommer le fichier sans modifier l'extension en suivant le pattern suivant : 
@@ -22,17 +21,17 @@ Dans cet exercice vous devrez utilisé le fichier `episode_liste_exercice_1` fou
 - Les noms des épisodes sont fournis à la fin de ce Readme.
 
 
->Tokyo Ghoul [1x5] - Scars.mp4
->Tokyo Ghoul [1x9] - Birdcage.mp4
->Tokyo Ghoul [1x7] - Captivity.mp4
->Tokyo Ghoul [1x2] - Incubation.mp4
->Tokyo Ghoul [1x8] - Circular.mp4
->Tokyo Ghoul [1x11] - High Spirits.mp4
->Tokyo Ghoul [1x10] - Aogiri.mp4
->Tokyo Ghoul [1x4] - Supper.mp4
->Tokyo Ghoul [1x3] - Dove.mp4
->Tokyo Ghoul [1x6] - Cloudburst.mp4
->Tokyo Ghoul [1x1] - Tragedy.mp4
+Tokyo Ghoul [1x5] - Scars.mp4
+Tokyo Ghoul [1x9] - Birdcage.mp4
+Tokyo Ghoul [1x7] - Captivity.mp4
+Tokyo Ghoul [1x2] - Incubation.mp4
+Tokyo Ghoul [1x8] - Circular.mp4
+Tokyo Ghoul [1x11] - High Spirits.mp4
+Tokyo Ghoul [1x10] - Aogiri.mp4
+Tokyo Ghoul [1x4] - Supper.mp4
+Tokyo Ghoul [1x3] - Dove.mp4
+Tokyo Ghoul [1x6] - Cloudburst.mp4
+Tokyo Ghoul [1x1] - Tragedy.mp4
 
 
 ## Exercice BONUS : 
