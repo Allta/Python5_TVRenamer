@@ -21,10 +21,9 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - Pour cela vous devrez utiliser les fonctions de manipulation de chaîne de caractère
   - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
   <details>
-  <summary>Astuce</summary>
+  <summary>Astuce</summary> 
   
-  
-  ```python
+```python
 import os
 
 for filename in os.listdir("/path/to/dir/"):
@@ -35,6 +34,7 @@ for filename in os.listdir("/path/to/dir/"):
         print('not found)
 
   ```
+ </details>
 - Les noms des épisodes sont fournis ci-dessous.
 
 
