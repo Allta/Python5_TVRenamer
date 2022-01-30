@@ -37,9 +37,9 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   ```
   
 </details>
- 
 
-- Les noms des épisodes sont fournis ci-dessous.
+ - Vous pouvez créer une liste ou un dictionnaire (key:value) contenant les noms des épisodes. Par exemple {"1":"Tragedy","2":"Incubation"...}
+ - Les noms des épisodes sont fournis ci-dessous.
 
 
 Tokyo Ghoul [1x5] - Scars.mp4  
