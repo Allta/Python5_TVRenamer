@@ -17,8 +17,25 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
  Il faudra : 
 - Detecter le numéro de l'épisode
 - Renommer le fichier sans modifier l'extension en suivant le pattern suivant : 
-  - **The Big Bang Theory [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
-- Les noms des épisodes sont fournis à la fin de ce Readme.
+  - **Tokyo Ghoul [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
+  - Pour cela vous devrez utiliser les fonctions de manipulation de chaîne de caractère
+  - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
+  <details>
+  <summary>Astuce</summary>
+  
+  
+  ```python
+import os
+
+for filename in os.listdir("/path/to/dir/"):
+    if filename.endswith("XXX") or filename.endswith("XXX"): 
+        print(os.path.join(directory, filename))
+
+    else:
+        print('not found)
+
+  ```
+- Les noms des épisodes sont fournis ci-dessous.
 
 
 Tokyo Ghoul [1x5] - Scars.mp4  
