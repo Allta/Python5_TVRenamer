@@ -20,6 +20,24 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - **Tokyo Ghoul [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
   - Pour cela vous devrez utiliser les fonctions de manipulation de chaîne de caractère
   - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
+ 
+<details>
+  <summary>Hint</summary>
+  
+  
+  ```python
+  import os
+
+  for filename in os.listdir("/path/to/dir/"):
+    if filename.endswith("XXX") or filename.endswith("XXX"): 
+        print(os.path.join(directory, filename))
+
+    else:
+        print('not found)
+  ```
+  
+</details>
+ 
 <details>
   <summary>Astuce</summary> 
   ```python
