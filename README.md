@@ -38,20 +38,6 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   
 </details>
  
-<details>
-  <summary>Astuce</summary> 
-  ```python
-  import os
-
-  for filename in os.listdir("/path/to/dir/"):
-    if filename.endswith("XXX") or filename.endswith("XXX"): 
-        print(os.path.join(directory, filename))
-
-    else:
-        print('not found)
-
-  ```
-</details>
 
 - Les noms des épisodes sont fournis ci-dessous.
 
