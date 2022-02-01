@@ -20,6 +20,7 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - **Tokyo Ghoul [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
   - Pour cela vous devrez utiliser les fonctions de manipulation de chaîne de caractère
   - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
+  - Pensez à trier les fichiers
 
   <summary>Hint</summary>
   
@@ -33,6 +34,19 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
 
     else:
         print('not found)
+        
+   files =  os.listdir()
+
+  print(files)
+
+  Output
+
+  ['A sample.txt', 'src.py', 'D sample.txt', 'E sample.txt', 'C sample.txt', 'B sample.txt']
+
+
+  sorted_files =  sorted(files)
+
+  print(sorted_files)
   ```
 
 
