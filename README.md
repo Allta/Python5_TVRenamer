@@ -56,8 +56,8 @@ Tokyo Ghoul [1x1] - Tragedy.mp4
 ## Exercice BONUS : 
 
 - Ne pas utiliser la liste des épisodes ci-dessus.
-- Utiliser la liste `episode_liste_bonus`
-- Le programme doit detecter le nom de la série en comptant le nombre d'occurence des noms de fichier présents dans le dossier.
+- Utiliser le dossier :  `exercice_bonus`
+- Le programme doit detecter le nom de la série en comptant le nombre d'occurence des mots dans les des noms de fichier présents dans le dossier (Ou une autre façons si vous préférez)
 - Le programme doit detecter le numéro de la saison de l'épisode, si des saisons différentes sont dans le même dossier il faudra alors séparer les épisodes dans des dossiers différents comportant le numéro de la saison.
 - A l'aide du site : https://thetvdb.com/series/the-big-bang-theory/seasons/official/6 et de la librairie `request` (ou de la librairie `tvdb-api`) récupérer les noms des épisodes et renommer en concordance.
 
