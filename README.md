@@ -22,7 +22,7 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
   - Pensez à trier les fichiers
 
-  <summary>Hint</summary>
+  <summary>Astuce</summary>
   
   
   ```python
