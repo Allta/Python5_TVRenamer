@@ -36,7 +36,7 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   ```
 
 
- - Vous pouvez créer une liste ou un dictionnaire (key:value) contenant les noms des épisodes. Par exemple {"1":"Tragedy","2":"Incubation"...}
+ - Vous pouvez créer une liste ou un dictionnaire (key:value) contenant les noms des épisodes. Par exemple {"1":"Tragedy","2":"Incubation"...} ou une liste : ["Tragedy", "Incubation",...,"High Spirits"]
  - Les noms des épisodes sont fournis ci-dessous.
 
 
