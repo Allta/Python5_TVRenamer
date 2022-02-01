@@ -20,8 +20,7 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
   - **Tokyo Ghoul [SEASON_NUMBERxEPISODE_NUMBER] - EPISODE_NAME.EXTENSION** 
   - Pour cela vous devrez utiliser les fonctions de manipulation de chaîne de caractère
   - Vous allez devoir boucler sur les fichiers du dossier `exerce1` pour récupérer les noms des fichiers.
- 
-<details>
+
   <summary>Hint</summary>
   
   
@@ -35,8 +34,7 @@ Dans cet exercice vous devrez utiliser les fichiers du dossier `exercice 1`
     else:
         print('not found)
   ```
-  
-</details>
+
 
  - Vous pouvez créer une liste ou un dictionnaire (key:value) contenant les noms des épisodes. Par exemple {"1":"Tragedy","2":"Incubation"...}
  - Les noms des épisodes sont fournis ci-dessous.
